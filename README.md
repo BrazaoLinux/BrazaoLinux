@@ -29,14 +29,6 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  
 </div>
   
-```mermaid
-graph LR
-'''
-F[Bitcoin] --> P1((Python)) -->P2((JAVA)) -->P3((SQL)) -->O
-P1-->Linux
-F--> H[HardWare] -->Linux -->P3 
-O{JS--HTML--CSS}  
-''''
+<img src="https://github.com/BrazaoLinux/BrazaoLinux/blob/main/Diagrama%20HordemEstudos.png?raw=true" alt="Web Version"/>
